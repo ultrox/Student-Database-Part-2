@@ -1,1 +1,2 @@
 psql --username=freecodecamp --dbname=postgres
+touch student_info.sh
