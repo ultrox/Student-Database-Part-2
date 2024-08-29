@@ -700,3 +700,10 @@ trap '__vsc_preexec_all "$_"' DEBUG
 __vsc_original_prompt_command=${PROMPT_COMMAND:-}
 __vsc_prompt_cmd_original
 ./student_info.sh
+./student_info.sh
+psql --help
+./student_info.sh
+psql --help
+./student_info.sh
+./student_info.sh
+./student_info.sh
